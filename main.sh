@@ -16,4 +16,4 @@ if [ "${secureKey}" != "" ]; then
 else
     java -jar reader*.jar
 fi
-"111"
+
